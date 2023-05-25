@@ -1,4 +1,7 @@
+
+
 # Hi, I'm Matheus! :D
 
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+<img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
 ### About me
+
