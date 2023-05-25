@@ -19,7 +19,6 @@
 
 ## 📱 Social media
 
-
 <a href="https://www.instagram.com/mth_vilasboas/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -30,7 +29,9 @@
   
 <div>
 </div>
-
+<br>
+<br>
 💡 Feel free to explore my projects and get in touch with me. I am always open to new collaboration and learning opportunities.
+<br>
 <br>
 💬 Hope you find something interesting in my profile. Thanks for visiting!
