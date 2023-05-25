@@ -8,8 +8,14 @@
 🤩 About me
 
 🚀 Computer engineering student.
+<br>
 🚀 I have a strong interest in solving complex problems and creating innovative solutions.
+<br>
 🚀 I am always looking for new challenges and learning opportunities.
+<br>
+
+<div>
+</div>
 
 ## Social media
 
