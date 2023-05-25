@@ -5,7 +5,7 @@
 
 🌌 Hello! Welcome to my GitHub profile. I'm a programming enthusiast and passionate about technology.
 
-🤩 About me
+🤩 ## About me
 
 🚀 Computer engineering student.
 <br>
