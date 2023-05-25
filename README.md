@@ -28,3 +28,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a> 
   
+<div>
+</div>
+
+💡 Feel free to explore my projects and get in touch with me. I am always open to new collaboration and learning opportunities.
+<br>
+💬 Hope you find something interesting in my profile. Thanks for visiting!
