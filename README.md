@@ -5,7 +5,7 @@
 
 🌌 Hello! Welcome to my GitHub profile. I'm a programming enthusiast and passionate about technology.
 
- ## 🤩 Abouut me
+ ## 🤩 About me
 
 🚀 Computer engineering student.
 <br>
@@ -17,7 +17,7 @@
 <div>
 </div>
 
-## Social media
+## 📱 Social media
 
 
 <a href="https://www.instagram.com/mth_vilasboas/" target="_blank">
